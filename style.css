@@ -1,0 +1,83 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    font-weight: bold;
+}
+.paraleft{
+    display: flex;
+    justify-content: space-between;
+}
+.leftside{
+margin-left: 50px;
+margin-top: 50px;
+justify-content: space-between;
+font-size: 30px;
+
+}
+.img{
+    
+    margin-right:100px;
+    margin-top: 50px;
+  
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+button{
+    background-color: rgb(87, 207, 216);
+    color: rgb(255, 250, 250);
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+#about{
+    height: 608px;
+    width: 100%;
+    background-color: rgb(175, 223, 235);
+    
+
+
+}
+#home{
+    height: 608px;
+    width: 100%;
+    background-color: rgb(165, 241, 241);
+}
+#contact{
+    height: 608px;
+    width: 100%;
+    background-color: rgb(87, 207, 216);
+}
+.nav{
+position: sticky;
+top: 0%;
+}
+p{
+    display: flex;
+}
+form{
+width: 300px;
+border: 50px rgb(111, 0, 255);
+padding: 100px;
+margin: 100px;
+}
+.about{
+    margin-left: 50px;
+margin-top: 50px;
+justify-content: space-between;
+font-size: 30px;
+}
+.contact{
+    margin-left: 50px;
+margin-top: 50px;
+justify-content: space-between;
+font-size: 30px;
+
+}
